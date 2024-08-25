@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayank24100
+- 👋 Hi, I’m Mayank Dixit.
 - 👀 I’m interested in learning different coding languages such as Python, HTML, etc.
 - 🌱 I’m currently learning HTML and CSS from freecodecamp.org
 - 💞️ I’m looking to collaborate on different ideas which will help me use what I have learnt and challenge myself to collaborate with others...
